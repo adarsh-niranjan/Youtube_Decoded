@@ -4,7 +4,7 @@
 ## *Top trending YouTube videos analysed.* </br>
 
 ### Source:
-The **'Sources.zip'** file contains all the data from which the Project was derived. <br>
+The **'Sources'** folder contains all the data from which the Project was derived. <br>
 
 ### YouTube_Decoded.ipynb:
 It is the Jupyter Notebook project file.
