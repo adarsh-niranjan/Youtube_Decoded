@@ -6,7 +6,7 @@
 ### Source:
 The **'Sources.zip'** file contains all the data from which the Project was derived. <br>
 
-### Youtube_Decoded.ipynb:
+### YouTube_Decoded.ipynb:
 It is the Jupyter Notebook project file.
 
 ## Details:
