@@ -2,7 +2,7 @@
 <img src="https://research.google.com/youtube8m/youtube-logo-light.png" width=400 height=200>
 
 ## *Top trending YouTube videos analysed.* </br>
-
+**Live at: [Link](https://nbviewer.org/github/adarsh-niranjan/Youtube_Decoded/blob/main/YouTube_Decoded.ipynb)**
 ### Source:
 The **'Sources'** folder contains all the data from which the Project was derived. <br>
 
